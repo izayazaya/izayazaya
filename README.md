@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Izayaa;21stCenturySchzdMan;" />
 </h1>
 
-<h3 align="center">First year IT student learning to become a developer</h3>
+<h3 align="center">IT major learning to become a developer</h3>
 
 <br/>
 
