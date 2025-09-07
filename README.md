@@ -14,7 +14,7 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,c,java,py,bash,lua" /><br>
     <img src="https://skillicons.dev/icons?i=linux,arch,debian,mint,ubuntu,neovim,vim,sublime" /><br>
-    <img src="https://skillicons.dev/icons?i=blender,figma,godot,git,github" /><br>
+    <img src="https://skillicons.dev/icons?i=git,github,blender,figma,godot" /><br>
   </a>
 </div>
 
