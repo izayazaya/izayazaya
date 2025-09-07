@@ -24,8 +24,8 @@
 <br/>
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,c,python,git,github" /><br>
-    <img src="https://skillicons.dev/icons?i=linux,ubuntu,arch,neovim,sublime" /><br>
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,c,python" /><br>
+    <img src="https://skillicons.dev/icons?i=linux,arch,neovim,git,github" /><br>
   </a>
 </div>
 
